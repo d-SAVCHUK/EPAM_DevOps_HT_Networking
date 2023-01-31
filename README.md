@@ -1,5 +1,3 @@
-# Part 1 – Configure application
-
 ## 1. На Server_1 налаштувати статичні адреси на всіх інтерфейсах.
 ![Savchuk Dmytro](item1.jpg "Static addresses")
 
